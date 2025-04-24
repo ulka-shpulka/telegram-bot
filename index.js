@@ -1,6 +1,5 @@
 'use strict';
 
-var test = require('tape');
 var whichTypedArray = require('../');
 var isCallable = require('is-callable');
 var hasToStringTag = require('has-tostringtag/shams')();
